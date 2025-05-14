@@ -26,7 +26,7 @@ This study isolates the **optimizer’s effect** by keeping the model architectu
 - **Dataset**: CIFAR-10 (60k 32x32 RGB images across 10 classes)  
 - **Model**: Lightweight NN (to ensure quick, repeatable testing)  
 - **Framework**: Tensorflow
-- **Epochs**: Fixed (e.g., 50 epochs)  
+- **Epochs**: Fixed (50 epochs)  
 - **Batch Size**: 64  
 - **Metrics**:  
   - Final accuracy  
